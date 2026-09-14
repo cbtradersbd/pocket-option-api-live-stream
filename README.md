@@ -6,14 +6,14 @@
 [![Direct Contact](https://img.shields.io/badge/Chat_on_Telegram-@YouKnowWho__am-blue?style=for-the-badge&logo=telegram)](https://t.me/YouKnowWho_am)
 [![AI Signals Bot Demo](https://img.shields.io/badge/Live_Signals_Bot-@cbsignalsproai__bot-red?style=for-the-badge&logo=telegram)](https://t.me/cbsignalsproai_bot?start=1)
 [![Account Verify Bot](https://img.shields.io/badge/Account_Verify_Bot-@cbtradersbd__bot-purple?style=for-the-badge&logo=telegram)](https://t.me/cbtradersbd_bot?start=1)
-[![FastAPI Docs](https://img.shields.io/badge/Live_API-Swagger_Docs-009688?style=for-the-badge&logo=fastapi)](https://api1.api.cbtraderbd.xyz/docs)
+[![FastAPI Docs](https://img.shields.io/badge/Live_API-Swagger_Docs-009688?style=for-the-badge&logo=fastapi)](https://api1.api.cbtradersbd.com/docs)
 [![License](https://img.shields.io/badge/License-Commercial_Source_Code-green?style=for-the-badge)](https://t.me/YouKnowWho_am)
 
 ---
 
 ## 🚀 Live Interactive Swagger API Documentation
 Check all live endpoints, test requests, and live WebSocket feeds directly on our server:  
-👉 **[https://api1.api.cbtraderbd.xyz/docs](https://api1.api.cbtraderbd.xyz/docs)**
+👉 **[https://api1.api.cbtradersbd.com/docs](https://api1.api.cbtradersbd.com/docs)**
 
 ---
 
