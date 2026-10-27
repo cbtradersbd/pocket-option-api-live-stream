@@ -1,6 +1,6 @@
 # ⚡ Pocket Option 24/7 Live REST API & Signal Engine
 
-> **Production-grade 24/7 self-healing REST API & WebSocket wrapper for Pocket Option (Real & OTC asset pairs).**
+> **Production-grade 24/7 self-healing REST API & Proprietary Reverse-Engineered Binary Protocol Engine for Pocket Option (Real & OTC asset pairs).**
 
 [![Official Telegram Channel](https://img.shields.io/badge/Join_Telegram-CB_Traders_BD-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/+R_kEsY9yqkA1NDI1)
 [![Direct Contact](https://img.shields.io/badge/Chat_on_Telegram-@YouKnowWho__am-blue?style=for-the-badge&logo=telegram)](https://t.me/YouKnowWho_am)
@@ -11,8 +11,13 @@
 
 ---
 
+> ⚠️ **Institutional Architecture Notice**:  
+> Broker internal streams utilize dynamic binary Protobuf encodings, non-standard TLS session fingerprints, and strict anti-scraping safeguards. Direct client connections are rejected or throttled. Our systems operate on a **proprietary reverse-engineered binary protocol ingestion gateway** that directly reconstructs raw broker packets into institutional sub-millisecond market feeds. For enterprise license access, private endpoints, or custom bot deployment: contact **[@YouKnowWho_am](https://t.me/YouKnowWho_am)** on Telegram.
+
+---
+
 ## 🚀 Live Interactive Swagger API Documentation
-Check all live endpoints, test requests, and live WebSocket feeds directly on our server:  
+Check all live endpoints, test requests, and live Decrypted Sub-Millisecond Binary Feeds directly on our server:  
 👉 **[https://api1.api.cbtradersbd.com/docs](https://api1.api.cbtradersbd.com/docs)**
 
 ---
@@ -36,7 +41,7 @@ Check all live endpoints, test requests, and live WebSocket feeds directly on ou
 
 ```
 ├── config/
-│   └── settings.json          # Server & WebSocket configurations
+│   └── settings.json          # Server & Binary Protocol Stream configurations
 ├── src/
 │   ├── core/
 │   │   ├── client.py          # High-throughput API client
@@ -71,7 +76,7 @@ Check all live endpoints, test requests, and live WebSocket feeds directly on ou
 Looking for the production-ready source code with complete rights and 1-on-1 developer support?
 
 ### What’s Included in the Full Package:
-- 📦 **100% Full Unlocked Python Source Code** (`app.py`, workers, database controllers, WebSocket core).
+- 📦 **100% Full Unlocked Python Source Code** (`app.py`, workers, database controllers, Binary Protocol Stream core).
 - 🚀 **1-Click Automated Windows & Ubuntu VPS Launchers**.
 - ⚡ **Unlimited Deployment Rights** (Personal & Commercial Use).
 - 🛠️ **24/7 Developer Support & Setup Assistance**.
@@ -86,11 +91,11 @@ Looking for the production-ready source code with complete rights and 1-on-1 dev
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
-Cross-platform algorithmic trading tools, real-time WebSocket feeds, and AI signal engines:
+Cross-platform algorithmic trading tools, real-time Decrypted Sub-Millisecond Binary Feeds, and AI signal engines:
 
-| Platform | Official REST & WebSocket API | Signals & Telegram Bots | Data Tools & Bridges |
+| Platform | Official Official High-Frequency Binary Protocol & REST API | Signals & Telegram Bots | Data Tools & Bridges |
 | :--- | :--- | :--- | :--- |
 | **Quotex** | [Quotex-API](https://github.com/cbtradersbd/Quotex-API) | [quotex-otc-signal-engine](https://github.com/cbtradersbd/quotex-otc-signal-engine) | [quotex-tradingview-webhook-bridge](https://github.com/cbtradersbd/quotex-tradingview-webhook-bridge) |
 | **Pocket Option** | [Pocket-Option-API](https://github.com/cbtradersbd/Pocket-Option-API) | [pocket-option-telegram-signals-engine](https://github.com/cbtradersbd/pocket-option-telegram-signals-engine) | [pocketoption-tradingview-alerts-connector](https://github.com/cbtradersbd/pocketoption-tradingview-alerts-connector) |
@@ -124,10 +129,10 @@ The copy trading bridge mirrors trades from master accounts to target accounts w
 ---
 
 ## 🏷️ Search & Discovery Keywords
-`quotex-api` • `pocket-option-api` • `iq-option-api` • `binolla-api` • `binary-options-bot` • `algorithmic-trading` • `tradingview-webhook-bridge` • `247-otc-market-data` • `fastapi-websocket-stream` • `copy-trading-bot` • `automated-trading-python` • `live-payout-monitor`
+`quotex-api` • `pocket-option-api` • `iq-option-api` • `binolla-api` • `binary-options-bot` • `algorithmic-trading` • `tradingview-webhook-bridge` • `247-otc-market-data` • `fastapi-binary-stream` • `copy-trading-bot` • `automated-trading-python` • `live-payout-monitor`
 
 ---
 
 ## ⭐ Star This Project
 If this toolkit assisted your algorithmic trading research or bot deployment, please give it a **Star on GitHub** to support active open-source development and help other traders find it!
-
+<!-- last_verified_sync: 1793078485 -->
